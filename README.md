@@ -1,8 +1,6 @@
-Xango Music Opdracht (Frontend Development Periode 4)
---
+# Xango Music Opdracht (Frontend Development Periode 4)
 
-#Beschrijving Opdracht
------
+# Beschrijving Opdracht
 
 ## Xango Music
 
