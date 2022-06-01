@@ -1,3 +1,25 @@
+body {
+    background-color: rgb(171,179,194);
+}
+
 #container{
     margin-bottom: 20px;
+}
+
+#navbarDropdown {
+    background-color: rgb(234,100,84);
+    border-radius: 5px 5px 0px 0px;
+}
+
+.dropdown-menu {
+    background-color: rgb(255,204,153);
+}
+
+.container {
+    margin-top: 105px;
+    background-color: rgb(255,231,181);
+}
+
+.navbar {
+    background-color: rgb(234,100,84);
 }
