@@ -1,9 +1,6 @@
 body {
     background-color: rgb(171,179,194);
-}
-
-#container{
-    margin-bottom: 20px;
+    overflow-x: hidden;
 }
 
 #navbarDropdown {
@@ -15,11 +12,32 @@ body {
     background-color: rgb(255,204,153);
 }
 
-.container {
+.container-custom {
     margin-top: 105px;
     background-color: rgb(255,231,181);
 }
 
 .navbar {
     background-color: rgb(234,100,84);
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: white;
+    border-left: gray;
+}
+  
+ /* Handle */
+::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 100px;
+}
+  
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
 }
