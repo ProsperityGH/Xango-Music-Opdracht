@@ -21,6 +21,18 @@ body {
     background-color: rgb(234,100,84);
 }
 
+.fb-page {
+    margin-left: 50%;
+    transform: translateX(-35%);
+    border: 2px solid white;
+    margin-top: 10px;
+}
+
+.XMD {
+    background-color: rgb(234,100,84);
+    margin-left: 20px;
+}
+
 ::-webkit-scrollbar {
     width: 10px;
 }
@@ -34,7 +46,6 @@ body {
  /* Handle */
 ::-webkit-scrollbar-thumb {
     background: rgba(0, 0, 0, 0.4);
-    border-radius: 100px;
 }
   
 /* Handle on hover */
