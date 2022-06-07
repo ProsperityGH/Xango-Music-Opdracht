@@ -1,3 +1,52 @@
-#container{
-    margin-bottom: 20px;
+body {
+    background-color: rgb(171,179,194);
+    overflow-x: hidden;
+}
+#navbarDropdown {
+    background-color: rgb(234,100,84);
+    border-radius: 5px 5px 0px 0px;
+}
+.dropdown-menu {
+    background-color: rgb(255,204,153);
+}
+.container-custom {
+    margin-top: 105px;
+    background-color: rgb(255,231,181);
+}
+.navbar {
+    background-color: rgb(234,100,84);
+}
+.fb-page {
+    margin-left: 50%;
+    transform: translateX(-35%);
+    border: 2px solid white;
+    margin-top: 10px;
+}
+.XMD {
+    background-color: rgb(234,100,84);
+    margin-left: 20px;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+    background: white;
+    border-left: gray;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.4);
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+#title {
+    color: #c33;
+}
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1700px;
+    }
 }
