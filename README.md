@@ -1,6 +1,29 @@
 # Xango Music Opdracht (Frontend Development Periode 4)
 
-# Beschrijving Opdracht
+## Urenregristratie
+
+13-06 <br>
+Prosper - 12:15 - 13:45 (Werken aan details.html , Werken aan presentatie) <br>
+Tygo - 12:15 - 16:00 (Werken aan newreleases.html , Werken aan presentatie)
+
+07-06 <br>
+Prosper - 12:15 - 16:00 (Werken aan howtoorder.html) <br>
+Tygo - 12:15 - 16:00 (Werken aan contact.html)
+
+30-05 <br>
+Prosper - 12:15 - 16:00 (Styling aan index.html) <br>
+Tygo - 12:15 - 16:00 (Styling aan index.html)
+
+23-05 <br>
+Prosper - 12:15 - 16:00 (Werken aan index.html) <br>
+Tygo - 12:15 - 16:00 (Werken aan index.html)
+
+16-05 <br>
+Prosper - 12:15 - 16:00 (Begin index.html) <br>
+Tygo - 12:15 - 16:00 (Begin index.html)
+
+
+## Beschrijving Opdracht
 
 ## Xango Music
 
